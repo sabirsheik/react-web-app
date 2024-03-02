@@ -1,0 +1,54 @@
+@media (max-width:991.98px) {
+    header{
+        height: 135px;
+    }
+    .mid-btns{
+        margin-top: 110px;
+        margin-left: 155px;
+    }
+   
+}
+@media (max-width:900.98px) {
+
+    .mid-btns{
+        margin-top: 110px;
+        margin-left: 105px;
+    }
+   
+}
+@media (max-width:850.98px) {
+
+    .mid-btns{
+        margin-top: 110px;
+        margin-left: 95px;
+    }
+   
+}
+@media (max-width:800.98px) {
+
+    .mid-btns{
+        margin-top: 110px;
+        margin-left: 65px;
+    }
+   
+}
+@media (max-width:867.98px) {
+    .bucket{
+        margin-right: -100px;
+    }
+    .my{
+        width: 50vw;
+    }
+    .conasi{
+        height: 8vh;
+        /* width: 100vw; */
+    }
+   .btn-1{
+    display: none;
+   }
+    .mid-btns{
+        margin-top: 110px;
+        margin-left: 65px;
+    }
+   
+}
